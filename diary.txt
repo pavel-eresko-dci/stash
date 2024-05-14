@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 i love my boss
 i love my boss
 i love my boss
+=======
+i hate my boss
+i hate my boss
+i hate my boss
+i hate my boss
+i hate my boss
+>>>>>>> the-truth
